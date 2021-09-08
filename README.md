@@ -3,6 +3,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
 
 1. **03Sep2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
  + Continue to learn how to develop [MOOSE](https://mooseframework.inl.gov/) apps
+ + Issues installing MOOSE from [last semester](https://github.com/UML-Linux-Club/moose-info).
  + Focus on geometry and meshing for more elaborate problems
  + Use the geometry and mesh generation package [Coreform Cubit](https://coreform.com/products/coreform-cubit/) 
  + Transfer data to MOOSE through a MOOSE `input.hit` file
