@@ -8,3 +8,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
  + Focus on geometry and meshing for more elaborate problems
  + Use the geometry and mesh generation package [Coreform Cubit](https://coreform.com/products/coreform-cubit/) 
  + Transfer data to MOOSE through a MOOSE `input.hit` file
+
+2. **10Sep2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+ + Creating simple geometry and meshing as an alternate to MOOSE meshing for [Engy-5310 course](https://github.com/dpploy/engy-5310).
+ + Files will be eventually be uploaded in the course repo.
