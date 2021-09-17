@@ -13,3 +13,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
  + Creating simple geometry and meshing as an alternate to MOOSE meshing for [Engy-5310 course](https://github.com/dpploy/engy-5310).
  + A separate `README.md` file created for geometry and meshing with Coreform Cubit created.
  + Files will be eventually be uploaded in the course repo.
+
+3. **17Sep2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+4.  + More issues with Coreform-Cubit education license install. Not working with Linux.
+5.  + Continue to work on meshing examples for Engy-5310.
