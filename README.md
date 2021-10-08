@@ -15,5 +15,14 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
  + Files will be eventually be uploaded in the course repo.
 
 3. **17Sep2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
-4.  + More issues with Coreform-Cubit education license install. Not working with Linux.
-5.  + Continue to work on meshing examples for Engy-5310.
+ + More issues with Coreform-Cubit education license install. Not working with Linux.
+ + Continue to work on meshing examples for Engy-5310.
+
+3. **24Sep2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+ + Meeting notes not available.
+
+3. **01Oct2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+ + Meeting notes not available.
+
+3. **08Oct2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+ + Testing 2D simple CUBIT meshes for course notebooks.
