@@ -33,4 +33,8 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
       - block 1 surface 2
       - block 1 element type QUAD9
      + Delete the block later if needed for other changes
+     + Element order can be changed by creating a block either at the command line or the UI.
+      - Then select the Block on the project tree and the properties will appear at the bottom left pallete
+      - On the `Element Type` entry, select the element type.
+      - 2D elements tested with MOOSE/CUBIT: tri3, tri7, quad4, and quad9
 
