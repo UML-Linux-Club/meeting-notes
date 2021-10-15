@@ -27,3 +27,10 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
   3. **08Oct2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
      + Testing 2D simple CUBIT meshes for course notebooks.
      + Creating a bi-quadratic `quad9` mesh in CUBIT for MOOSE usage. For now use a CUBIT command line to create a block of elements with `quad9` type. Save mesh in `exodus` format. More on this later.
+
+  3. **15Oct2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Apparently element order is changed via the command prompt, *e.g*:
+      - block 1 surface 2
+      - block 1 element type QUAD9
+     + Delete the block later if needed for other changes
+
