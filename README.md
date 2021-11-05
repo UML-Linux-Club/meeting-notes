@@ -39,5 +39,9 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
       - 2D elements tested with MOOSE/CUBIT: tri3, tri7, quad4, and quad9
 
   3. **29Oct2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
-     + General hands-on work
+     + General hands-on programming work
      + Python programming on finite element basis functions
+
+  3. **05Nov2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + General hands-on programming work
+     + Considerations for a formal UML Linux Club: denied by the attending members; we want to stay open, independent, and poor.
