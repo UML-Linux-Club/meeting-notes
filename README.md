@@ -45,3 +45,7 @@ Notes from meetings held during the [academic semester](https://www.uml.edu/myum
   3. **05Nov2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
      + General hands-on programming work
      + Considerations for a formal UML Linux Club: denied by the attending members; we want to stay open, independent, and poor.
+  
+  3. **05Nov2021 Zoom meeting; web link *and phone number* available at the `uml-linux` Google group**
+     + Q&A on Engy-5310
+     + Working on Galerkin notes for Engy-5310
